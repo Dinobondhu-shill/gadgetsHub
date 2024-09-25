@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "High-quality wireless Bluetooth headphones with noise cancellation and 20-hour battery life.",
+    "image": "https://i.ibb.co.com/dGb1pww/smar-watch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Tracker",
+    "price": 34.99,
+    "description": "Track your heart rate, steps, and calories burned with this waterproof smart fitness tracker.",
+    "image": "https://i.ibb.co.com/dGb1pww/smar-watch.jpg"
+  },
+  {
+    "id": 3,
+    "name": "4K Action Camera",
+    "price": 129.99,
+    "description": "Capture stunning 4K videos and photos with this compact action camera. Perfect for adventure lovers.",
+    "image": "https://i.ibb.co.com/h2BqX5r/camera.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Portable Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Enjoy high-quality sound anywhere with this compact and portable Bluetooth speaker.",
+    "image": "https://i.ibb.co.com/yQB9Vzj/earbuds.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Gimbal Stabilizer",
+    "price": 89.99,
+    "description": "Keep your smartphone steady while recording videos with this 3-axis gimbal stabilizer.",
+    "image": "https://i.ibb.co.com/h2BqX5r/camera.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Charging Pad",
+    "price": 24.99,
+    "description": "Charge your phone effortlessly with this sleek and fast wireless charging pad.",
+    "image": "https://i.ibb.co.com/dGb1pww/smar-watch.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Smart LED Light Bulb",
+    "price": 19.99,
+    "description": "Control your home's lighting with this smart LED light bulb that works with voice assistants.",
+    "image": "https://i.ibb.co.com/h2BqX5r/camera.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Noise Cancelling Earbuds",
+    "price": 79.99,
+    "description": "Experience immersive sound and block out distractions with these wireless noise-cancelling earbuds.",
+    "image": "https://i.ibb.co.com/yQB9Vzj/earbuds.jpg"
+  }
+]

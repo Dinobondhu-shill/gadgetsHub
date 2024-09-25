@@ -4,8 +4,8 @@ import { NavLink } from 'react-router-dom';
 const Navbar = () => {
   return (
     <div className='flex justify-between items-center'>
-     <div>Logo</div>
-     <div className='ml-5'>
+     <NavLink to={'/'} className='text-4xl font-bold'>Logo</NavLink>
+     <div className='flex gap-5 font-medium text-xl'>
       <NavLink to={'/'}>Home</NavLink>
       <NavLink to={'/'}>Contacts</NavLink>
       <NavLink to={'/'}>Services</NavLink>
